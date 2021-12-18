@@ -1,6 +1,8 @@
+# React Native Challenge
+
 ## Installation
 
-- Go to your project's root folder and run `npx install`.
+- Go to your project's root folder and run `npm install`.
 
 ## Runing Aplication
 - To start Metro, run npx react-native start inside your React Native project folder: `npx react-native start`
